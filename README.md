@@ -1,6 +1,6 @@
 # source
 
-link: https://github.com/
+link: https://github.com/aswine2005/Molecular-Solubility-Forecast
 
 # Molecule Solubility Prediction
 
